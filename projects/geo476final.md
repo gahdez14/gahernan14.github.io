@@ -24,4 +24,6 @@ The first, traffic accidents reported.  The location of these reported accidents
 
 All data was acquired as JSON datasets from the State of Hawai’I ArcGIS web portal, and processed in ArcGIS online or ArcGIS Pro.  
 
+https://storymaps.arcgis.com/stories/47e9432e980647aaa19ad8b8d2b05744
+
 
