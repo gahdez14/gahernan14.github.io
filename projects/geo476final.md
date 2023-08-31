@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/uh60msq.png
 title: "ArcGIS Feasability Study: HUMEVAC Program on Oahu"
 date: 2023-04-01
 published: true
