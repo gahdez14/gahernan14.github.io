@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Is JavaScript as Whack as They Say??! First Impressions from an ICS314 Student"
+title: "Is JavaScript as Bad as They Say??! First Impressions from an ICS314 Student"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
