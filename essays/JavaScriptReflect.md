@@ -55,7 +55,7 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
          console.log(projectEulerOne(1000));
 
 # New Functions
-Learning the utility of ES6 did take time, and will likely continue to take time.  Initially, the use of arrow functions seemed alien enough, but became intuitive after some repetition.  There are functions that are immediately useful and welcome.  For example, the ability to Destructure arrays and properties from objects can immediately shrink down a task that previously would require a precise homemade function to accomplish. 
+Learning the utility of ES6 did take time, and will likely continue to take time.  Initially, the use of arrow functions seemed alien enough, but became intuitive after some repetition.  There are functions that are immediately useful and welcome.  For example, the ability to Destructure arrays and properties from objects can immediately shrink down a task that previously would require a precise homemade function to accomplish. In general, the WOD methodology of learning definitely forces the repetition and, although stressful, has been useful in instilling the idea of "coding with a purpose."
 
 # Known Knowns and Known Unknowns
 Although there are many “known” useful functions, there are functionalities whose utility is still unknown to me.  For example, the use of promises seems like a useful tool, but how it will be useful has yet to be seen.  Importing and exporting modules is another example.  Overall, the simplicity of Javascript easily makes it more friendly, useful, and pithy than other languages.  
