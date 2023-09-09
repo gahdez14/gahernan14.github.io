@@ -31,7 +31,7 @@ I believe this would be a learning opportunity to place the tabs in different lo
 
   "How do I delete a Git branch locally and remotely?"  More than likely this can be found in a Github FAQ, or even in the users guide for Github. However, the question is worded in a way that is direct, easily searchable, and provides the failed attempts that did not work.  This indicates that the user has tried, has done at least some research and is genuinely looking for assistance on an issue.  
 
-[StackOverflow]([https://stackoverflow.com/questions/47053530/java-how-to-use-t-in-my-example](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely)).
+[StackOverflow](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely).
 
   Another thing that stands out in the directness of the question, and therefore the resulting answers, is the fact that users attempting to answer have to make very few assumptions on how to provide help.  For the "bad questions" answering users will start with saying" I'm assuming you're trying to…" or "I'm assuming you're doing this on a …"  The resultant answers usually deviate from what the original poster actually wanted to get for help.  Another reason this question is "good" is because it is so generic.  Although counterintuitive, users posting answers are doing so for the different versions of Github and therefore creating longevity to the question and making the availbale answer that much more useful to more and more users as time goes on.  
 
