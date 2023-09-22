@@ -18,7 +18,7 @@ labels:
 
 For the lower-division courseware, 111,141,211,241, 212, even 311 to some extent, we’ve been playing a single-player game.  It has been a matter of finding out whether each individual student can solve a problem using code.  In general, if the code ran, nothing else mattered.  If there were extra variables, extra lines, or all the end brackets were crammed together in one line, your code would still pass if it could run.  You might have remarks, but you still got a passing grade.  After all, if it runs, it runs.  To analogize this phase of our education, we learned to dribble and shoot the ball.
 
-<img width="400px" class="rounded float-start pe-4" src="../img/800ntq.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/j1fq9.jpg">
 
 ## Stop Putting all your end Brackets on the Same Line
 
