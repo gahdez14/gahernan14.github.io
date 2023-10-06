@@ -3,7 +3,8 @@
 layout: essay
 type: essay
 title: "Are we Done with Bootstrap Yet?  Oh, Never?"
-date: 2023-10*05
+# All dates must be YYYY-MM-DD format!
+date: 2023-10-05
 published: true
 labels:
   - HTML
