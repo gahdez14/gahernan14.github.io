@@ -11,7 +11,7 @@ labels:
   - BOOTSTRAP5
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/81n1qr.jpg">
+<img width="1000px" class="rounded float-start pe-4" src="../img/81n1qr.jpg">
 
 # Are we Done with Bootstrap Yet?  Oh, Never?
 
@@ -26,8 +26,8 @@ Learning UI frameworks has been a challenging mindset to get into in just 2 week
 Because iPhones and iPads.   While it may be comfortable to create in HTML/CSS, it is completely untenable to code for every size of monitor and every size of phone screen, and every zoom level of a page.  So even though it feels as though the world is more finite when using BootstrapB(as long as you stay off the CSS style sheet), you’re actually expanding the audience that you can reach with your created content.  During the exercises where we were formatting and re-formatting pages in Bootstrap, it would not take much effort of zooming in or resizing a window, to see that it's actaully very easy to misshape a browaser window to the point where your webpage is useless.  Below is a comparison of a webpage created amateurly and one done professionally(it's assumed).  The image on the left shows how upon making a window smaller, the menu button for "Location" decides to run off and do it's own thing.  The second shows the same wepage, but it is coded in a manner in which the integrity of the nav bar is maintained, and resizing occurs as one would expect for a professional website.  
 
 
-<img width="400px" class="rounded float-start pe-4" src="../img/misshape1.jpg">
-<img width="400px" class="rounded float-start pe-4" src="../img/misshape2.jpg">
+<img width="800px" class="rounded float-start pe-4" src="../img/misshape1.png">
+<img width="800px" class="rounded float-start pe-4" src="../img/misshape2.png">
 
 
 ## What exactly is there to dislike about Bootstrap 5?
@@ -36,4 +36,4 @@ There are plenty of obstacles which make the Bootstrap learning curve relatively
   Despite my hesitations, it is important to note how essential Bootstrap is for making webpages more widely available.  
 
 
-<img width="400px" class="rounded float-start pe-4" src="../img/81n392.jpg">
+<img width="800px" class="rounded float-start pe-4" src="../img/81n392.jpg">
