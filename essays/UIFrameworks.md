@@ -11,7 +11,7 @@ labels:
   - BOOTSTRAP5
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/81n1qr.jpg">
+<img width="800px" class="rounded float-start pe-4" src="../img/81n1qr.jpg">
 
 # Are we Done with Bootstrap Yet?  Oh, Never?
 
@@ -36,4 +36,4 @@ There are plenty of obstacles which make the Bootstrap learning curve relatively
   Despite my hesitations, it is important to note how essential Bootstrap is for making webpages more widely available.  
 
 
-<img width="800px" class="rounded float-start pe-4" src="../img/81n392.jpg">
+<img width="600px" class="rounded float-start pe-4" src="../img/81n392.jpg">
