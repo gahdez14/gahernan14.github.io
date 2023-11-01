@@ -11,7 +11,7 @@ labels:
   - Foodies
 ---
 
-<img width="80%" align="center" class="rounded float-start pe-4" src="https://t4.ftcdn.net/jpg/00/84/46/11/360_F_84461140_QPHOQxRTu8e48QXCQ6s5DYYeaM2y4JSK.jpg">
+<img width="80%" class="rounded float-start pe-4" src="https://t4.ftcdn.net/jpg/00/84/46/11/360_F_84461140_QPHOQxRTu8e48QXCQ6s5DYYeaM2y4JSK.jpg">
 
 Created By: Gerardo Hernandez and Jason Enojardo
 
@@ -35,16 +35,16 @@ The webpage allows students to sign up, and post cards of their "specialty dishe
 - Sign up for a Patron Account
 - Chef Account: Meal Announcement
 - Patron Account: IsleEatWithYou!
-  
-<p align ="left">
-  
+    
 # Beyond the basics
+
 - Support for some sort of Review System
 - Conflict Resolution Page
 - Chef Account: Extracting Payment to External Account
 - Past Meals and Reviews
 - Calendar system
-< /p>
+
+
 # Use cases
 
 Say a student knows how to make a great Paella.  Unfortunately, a UHM student will have a hard time finding ingredients (rice, paprika, saffron, mussels, shrimp, chicken, sausage, bell peppers) in a quantity that supports an average college student.  i.e. Finding ingredients for a serving of 1, would be unfeasible, wasteful, expensive, or some combination of the 3.  It would be more cost-effective for the student to make a 6-8 person serving IF there are another 5-7 people who would be willing to chip in and try new foods.  By signing up, students can flex their culinary skills, flex the diversity of their palettes, and minimize cost of food.
