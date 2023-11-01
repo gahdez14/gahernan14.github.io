@@ -2,7 +2,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Brainstorming: IsleEatWithYou"
+title: "Final Project Idea: IsleEatWithYou"
 date: 2023-10-31
 published: true
 labels:
@@ -46,6 +46,7 @@ The webpage allows students to sign up, and post cards of their "specialty dishe
 
 # Use cases
 
-Say a student knows how to make a great Paella.  Unfortunately, a UHM student will have a hard time finding ingredients (rice, paprika, saffron, mussels, shrimp, chicken, sausage, bell peppers) in a quantity that supports an average college student.  i.e. Finding ingredients for a serving of 1, would be unfeasible, wasteful, expensive, or some combination of the 3.  It would be more cost-effective for the student to make a 6-8 person serving IF there are another 5-7 people who would be willing to chip in and try new foods.  By signinng up, students can flex their culinary skills, flex the diversity of their palettes, and minimize cost of food.
+Say a student knows how to make a great Paella.  Unfortunately, a UHM student will have a hard time finding ingredients (rice, paprika, saffron, mussels, shrimp, chicken, sausage, bell peppers) in a quantity that supports an average college student.  i.e. Finding ingredients for a serving of 1, would be unfeasible, wasteful, expensive, or some combination of the 3.  It would be more cost-effective for the student to make a 6-8 person serving IF there are another 5-7 people who would be willing to chip in and try new foods.  By signing up, students can flex their culinary skills, flex the diversity of their palettes, and minimize cost of food.
 
 A "Chef" can create an account and post a meal that they can make.  Interested students--"Patrons"--can sign-up for a serving of that meal, in exchange for a small contribution towards the ingredient costs.  
+<img width="75%" class="rounded float-start pe-4" src="../img/84izdr.jpg">
