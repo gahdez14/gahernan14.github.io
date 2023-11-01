@@ -11,7 +11,7 @@ labels:
   - Foodies
 ---
 
-<img width="80%" class="rounded float-start pe-4" src="https://t4.ftcdn.net/jpg/00/84/46/11/360_F_84461140_QPHOQxRTu8e48QXCQ6s5DYYeaM2y4JSK.jpg">
+<img width="100%" class="rounded float-start pe-4" src="https://t4.ftcdn.net/jpg/00/84/46/11/360_F_84461140_QPHOQxRTu8e48QXCQ6s5DYYeaM2y4JSK.jpg">
 
 Created By: Gerardo Hernandez and Jason Enojardo
 
