@@ -26,7 +26,7 @@ As a result, there is a great deal of diversity in the food that students from a
 
 All we need is to find a way for people to say... IsleEatWithYou!
 The webpage allows students to sign up, and post cards of their "specialty dishes."  Included in the card will be the ingredients associated, and how many servings they plan on making (and when).  Users Logged in can add their name to have a plate of the meal.  A small contribution will go directly towards subsidizing the cost of ingredients for the chef.  Another way to look at the solution is micro-crowdsourcing for meals.   
-
+<img width="75%" class="rounded float-start pe-4" src="../img/food-distro.png">
 
 # Pages that we would need
 
