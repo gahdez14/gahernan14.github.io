@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Gerardo Hernandez",
+    "label": "Student, Sr. Systems Engineer",
+    "picture": "https://github.com/gahernan14.png",
+    "email": "gahernan@hawaii.edu",
+    "phone": " ",
+    "website": "https://gahernan14.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I plan to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "gahernan14", "url": "http://github.com/gahernan14" },
+      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/gerardo-hernandez-bb007b114/" }
+    ]
+  },
+  "interests": [
+    { "name": "ArcGIS and electronic charting technologies" },
+    { "name": "Submarine Navigation" },
+    { "name": "Meme generation" },
+    { "name": "CNC woodworking" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "ArcGIS", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Huntington Ingalls Industries",
+      "position": "Sr. Systems Engineer 4",
+      "website": "",
+      "startDate": "2021-06-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Lead a team of engineers through the install, and maintenance of various equipment",
+        "Curriculum Development for training and certification evolutions"
+      ]
+    },
+    {
+      "company": "US Navy - USS HAWAII (SSN 776)",
+      "position": "Navigation / Operations Department Chief",
+      "website": "",
+      "startDate": "2018-12-01",
+      "endDate": "2021-06-01",
+      "summary": "",
+      "highlights": [
+        "Responsible for Safe Navigation of a Submarine through 2 Western Pacific Deployments",
+        "Mentor, train and certify a department of 35 personnel in IT, Navigation and Communications Principles.  "
+      ]
+    }
+  ],
+  "awards": [
+       {
+      "title": "Navy-Marine Corps Commendation Medal",
+      "date": "2021",
+      "awarder": "Commander, Submarine Squadron 1",
+      "summary": "For leading a department of 35 Engineering Technician and IT personnel through 2 successful deployments."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
