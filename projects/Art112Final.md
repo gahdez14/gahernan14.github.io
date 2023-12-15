@@ -4,7 +4,7 @@ type: project
 image: img/proj3-1sq.jpg
 title: "Digital Art: Collaboration in Adobe Illustrator"
 date: 2023
-published: true
+published: false
 labels:
   - Adobe Illustrator
   - Art
