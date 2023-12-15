@@ -4,7 +4,7 @@ type: essay
 title: "Is JavaScript as Bad as They Say??! First Impressions from an ICS314 Student"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-published: true
+published: false
 labels:
   - Engineering
 ---
