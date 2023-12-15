@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Gerardo Hernandez",
-    "label": "Student",
+    "label": "Student, Sr. Systems Engineer",
     "picture": "https://github.com/gahernan14.png",
     "email": "gahernan@hawaii.edu",
-    "phone": "808-649-8457",
+    "phone": " ",
     "website": "https://gahernan14.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I plan to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "gahernan14", "url": "http://github.com/gahernan14" },
@@ -34,7 +34,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2023-08-01",
+      "startDate": "2021-08-01",
       "endDate": "Present",
       "courses": [
       ]
