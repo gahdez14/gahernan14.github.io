@@ -6,10 +6,10 @@
     "email": "gahernan@hawaii.edu",
     "phone": " ",
     "website": "https://gahernan14.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I plan to graduate in Spring, 2025.",
+    "summary": "i I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I plan to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "gahernan14", "url": "http://github.com/gahernan14" },
+      { "network": "github", "username": "gahdez14", "url": "http://github.com/gahdez14" },
       { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/gerardo-hernandez-bb007b114/" }
     ]
   },
@@ -26,21 +26,32 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "ArcGIS", "Git/GitHub"]
+      "keywords": [ "Windows", "ArcGIS", "Git/GitHub", "Linux"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2021-08-01",
-      "endDate": "Present",
+      "startDate": "August 2021",
+      "endDate": "May 2025",
       "courses": [
       ]
     }
   ],
   "work": [
+    {
+      "company": "US Navy - Commander Undersea Surveillance",
+      "position": "Electronics Technician - OIC",
+      "website": "",
+      "startDate": "2025-04-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Available upon request"
+      ]
+    },
     {
       "company": "Huntington Ingalls Industries",
       "position": "Sr. Systems Engineer 4",
