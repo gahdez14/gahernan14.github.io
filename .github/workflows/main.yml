@@ -6,20 +6,35 @@ on:
       - main
 
 jobs:
+
   github-pages:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/cache@v4
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Cache Ruby gems
+        uses: actions/cache@v4
         with:
           path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-      - uses: limitusus/json-syntax-check@v2.0.2
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          pattern: "\\bio.json$"
-      - uses: helaili/jekyll-action@4.4.1    # Choose any one of the Jekyll Actions
-        with:                                # Some relative inputs of your action
-          token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: 'gh-pages'
+          ruby-version: '3.2'
+      - name: Install Jekyll dependencies
+        run: bundle install --path vendor/bundle
+      - name: Validate JSON syntax
+        uses: limitusus/json-syntax-check@v2.0.2
+        with:
+          pattern: '\\bio.json$'
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --destination ./_site
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./_site
